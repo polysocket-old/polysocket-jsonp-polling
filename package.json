@@ -1,0 +1,22 @@
+{
+  "name": "polysocket-json-polling",
+  "version": "0.0.0",
+  "description": "json polling transport for polysocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/polysocket-json-polling"
+  },
+  "keywords": [
+    "polysocket",
+    "websocket"
+  ],
+  "author": "Ian Hansen",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/supershabam/polysocket-json-polling/issues"
+  }
+}
