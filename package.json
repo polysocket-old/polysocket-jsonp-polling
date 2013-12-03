@@ -18,5 +18,10 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/supershabam/polysocket-json-polling/issues"
+  },
+  "dependencies": {
+    "q": "~0.9.7",
+    "websocket-url": "0.0.1",
+    "lodash": "~2.3.0"
   }
 }
