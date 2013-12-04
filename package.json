@@ -15,7 +15,7 @@
     "websocket"
   ],
   "author": "Ian Hansen",
-  "license": "BSD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/supershabam/polysocket-json-polling/issues"
   },
